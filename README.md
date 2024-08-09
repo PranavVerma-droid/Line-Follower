@@ -1,8 +1,8 @@
 # Private Line Follower Details.
 
 ## Repository Links
-- [STM32](STM32)
-- [Arduino](ARDUINO)
+- [STM32](Code/STM32)
+- [Arduino](Code/ARDUINO)
   
 ## Total Parts Needed:
 Ignore the Parts list in the Enginnering Drawings.
@@ -33,7 +33,7 @@ Create Two Modular PCB's using Vero Boards, to make use of Limited Parts. My Ide
 
 
 
-### PCB 1 [(STM32)](STM32)
+### PCB 1 [(STM32)](Code/STM32)
 
 #### Permanent Parts:
 - STM32 Blue Pill
@@ -47,7 +47,7 @@ Create Two Modular PCB's using Vero Boards, to make use of Limited Parts. My Ide
 - Lipo Battery
 - QTR-8RC Sensor
 
-### PCB 2 [(Arduino)](ARDUINO)
+### PCB 2 [(Arduino)](Code/ARDUINO)
 
 #### Permanent Parts:
 - Aruino Nano / Arduino Pro Mini
