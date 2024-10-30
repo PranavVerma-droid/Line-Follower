@@ -35,27 +35,27 @@ Create Two Modular PCB's using Vero Boards, to make use of Limited Parts. My Ide
 
 #### Permanent Parts:
 - STM32 Blue Pill
-- N20 12V 600 RPM Motors x 2
-- N20 Wheels x 2
-- XT60 Male Connector
 - L298N Motor Driver
+- Buck Converter
 - Castor Wheel
 
 #### Swapable Parts:
-- Lipo Battery
+- Li-ion Battery + Charging Module
 - QTR-8RC Sensor
+- N20 12V 600 RPM Motors x 2
+- N20 Wheels x 2
 
 ### PCB 2 [(Arduino)](Code/ARDUINO)
 
 #### Permanent Parts:
 - Aruino Nano / Arduino Pro Mini
-- N20 12V 600 RPM Motors x 2
-- N20 Wheels x 2
-- XT60 Male Connector
+- Buck Converter
 - TB6612FNG Motor Driver
 - Castor Wheel
   
 #### Swapable Parts:
-- Lipo Battery
+- Li-ion Battery + Charging Module
 - QTR-8RC Sensor
+- N20 12V 600 RPM Motors x 2
+- N20 Wheels x 2
 
