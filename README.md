@@ -3,7 +3,6 @@
 ## Repository Links
 - [STM32](Code/STM32)
 - [ARUDINO NANO](Code/ARDUINO)
-- [ESP32](Code/ESP32-C3)
 
 ### PCB 1 [(STM32)](Code/STM32)
 
@@ -19,17 +18,6 @@
 ### PCB 2 [(Arduino)](Code/ARDUINO)
 
 - Aruino Nano / Arduino Pro Mini
-- Buck Converter
-- TB6612FNG Motor Driver
-- Castor Wheel
-- Li-ion Battery + Charging Module
-- QTR-8RC Sensor
-- N20 6V 300 RPM Motors x 2
-- N20 Wheels x 2
-
-### PCB 3 [(ESP32)](Code/ESP32-C3)
-
-- ESP32 C3 Supermini
 - Buck Converter
 - TB6612FNG Motor Driver
 - Castor Wheel
